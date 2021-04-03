@@ -11,8 +11,8 @@ export default function Home() {
 			</Head>
 
 			<main className={styles.main}>
-				<Link href="/about">
-					<a>Go to about page</a>
+				<Link href="/posts">
+					<a>Go to Posts page</a>
 				</Link>
 			</main>
 
